@@ -1,4 +1,4 @@
-### BlindSignatures-impl
+### BlindSignatures
 Java implementation of Blind Signatures using BouncyCastle
 
 Two entities client and server are defined. Client wants to send a message for the server to sign, without the server having any knowledge of the message.
