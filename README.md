@@ -1,5 +1,5 @@
 ### BlindSignatures
-Java implementation of Blind Signatures using BouncyCastle
+Java implementation of Blind Signatures using BouncyCastle.
 
 [![Build Status](https://travis-ci.com/vaibhavsingh1993/BlindSignatures.svg?branch=master)](https://travis-ci.com/vaibhavsingh1993/BlindSignatures)
 
